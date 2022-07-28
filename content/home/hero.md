@@ -5,22 +5,21 @@ headless: true
 active: true
 weight: 10
 
-title: "Data Visualization"
+title: "Chemical Mixtures"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: dataviz_hires.png
+hero_media: 
 
 design:
   background:
     # Background gradient
-    gradient_start: '#DA413E'
-    gradient_end: '#E16462'
-
+    gradient_start: '#DA6F3E'
+    gradient_end: '#E19762'
     # Text color (true=light or false=dark).
     text_color_light: true
 
 cta_note:
-  label: PMAP 8921 • May 2020<br>Andrew Young School of Policy Studies<br>Georgia State University
+  label: R Tutorial • Aug 2022<br>Supervised by Prof. Amy Herring<br>Duke University
 ---
 
-**Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data**
+**Data analysis on health effects of chemical exposure**
