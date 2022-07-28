@@ -1,4 +1,4 @@
-baseurl: https://datavizm20.classes.andrewheiss.com/
+baseurl: https://github.com/YunranChen/chemicals.git
 defaultContentLanguage: en
 title: "Chemical Exposure Assessment"
 theme: hugo-academic
