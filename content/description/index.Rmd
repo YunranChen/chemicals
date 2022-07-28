@@ -1,0 +1,44 @@
+---
+title: Description
+slug: description
+citeproc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    toc: true
+    fig_caption: false
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+```
+
+`r blogdown::shortcode("courseinfo")`
+
+
+## Project objectives
+
+In this project, we will work on 
+
+
+## Course materials
+
+### Papers and tutorials
+
+- [@Cairo:2016]
+
+- [@Healy:2018]
+
+- [@Wilke:2018]
+
+    > [**FREE** online](https://serialmentor.com/dataviz/); <span>$32</span> new at [Amazon](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089). An eBook version is also available through [the O'Reilly database](http://go.oreilly.com/georgia-state-university), but you can just use [the online version](https://serialmentor.com/dataviz/).
+
+### R and RStudio
+
+You will do all of your analysis with programming language [R](https://cran.r-project.org/). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. 
+
+You can [find instructions for installing R, RStudio, and all the tidyverse packages here.](/resource/install/)
+

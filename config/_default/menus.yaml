@@ -1,6 +1,6 @@
 main:
-  - name: Syllabus
-    url: /syllabus/
+  - name: Description
+    url: /description/
     weight: 1
   - name: Schedule
     url: /schedule/
@@ -8,41 +8,23 @@ main:
   - name: Content
     url: /content/
     weight: 3
-  - name: Lessons
-    url: /lesson/
+  - name: Tutorials
+    url: /tutorials/
     weight: 4
-  - name: Examples
-    url: /example/
-    weight: 5
-  - name: Assignments
-    url: /assignment/
-    weight: 6
   - name: Resources
     url: /resource/
-    weight: 7
+    weight: 5
 
 content:
   - name: Overview
     weight: 1
   - name: Course content
     weight: 2
-lesson:
+tutorials:
   - name: Overview
     weight: 1
-  - name: Lessons
+  - name: Tutorials
     weight: 2
-example:
-  - name: Overview
-    weight: 1
-  - name: Examples
-    weight: 2
-assignment:
-  - name: Overview
-    weight: 1
-  - name: Projects
-    weight: 2
-  - name: Exercises
-    weight: 3
 resource:
   - name: Resources
     weight: 1

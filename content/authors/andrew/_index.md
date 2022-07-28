@@ -1,8 +1,8 @@
 ---
 authors:
-- andrew
-name: Andrew Heiss
+- yunran
+name: Yunran Chen
 superuser: true
 ---
 
-Andrew Heiss is an assistant professor at the Andrew Young School of Policy Studies at Georgia State University, researching international NGOs and teaching data science, program evaluation, and economics.
+Yunran Chen is a Ph.D. student in Department of Statistical Science at Duke University, researching on Baysian factor model and nonparametric Bayesian methods.
